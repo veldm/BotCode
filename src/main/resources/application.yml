@@ -1,0 +1,10 @@
+application.viber-bot:
+ auth-token: "481988e87867d0d2-3c56b99109dcf4c7-a34c5f16fbd4b429"
+ webhook-url: "https://tstu-bot.herokuapp.com"
+ name: "TvSTUStudingBot "
+ avatar: "https://pp.userapi.com/c837523/v837523194/734e0/5t5IJ_BVIsQ.jpg"
+
+logging:
+  level:
+    root: DEBUG
+
