@@ -1,4 +1,4 @@
-package com.viber.bot.sample;
+﻿package com.viber.bot.sample;
 
 import com.google.common.base.Charsets;
 import com.google.common.base.Preconditions;
@@ -39,7 +39,7 @@ public class SpringEchoBot implements ApplicationListener<ApplicationReadyEvent>
 
     @Inject
     private ViberBot bot;
-    String [] words = {"Что тебе тут нужно?","Привет!","Я есть бот","Пока"};
+    String [] words = {"1Что тебе тут нужно?","1Привет!","1Я есть бот","1Пока"};
 
 
     @Inject
